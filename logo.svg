@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">La Bonne Fibre</title>
+  <desc id="desc">Un carré de fils entrecroisés précède le nom La Bonne Fibre.</desc>
+  <rect width="720" height="180" rx="12" fill="#fbfaf6"/>
+  <g transform="translate(28 28)" fill="none" stroke-linecap="round">
+    <path d="M18 14v96M48 14v96M78 14v96M108 14v96" stroke="#20312d" stroke-width="10"/>
+    <path d="M14 22h100M14 52h100M14 82h58M88 82h26M14 112h100" stroke="#a33b32" stroke-width="10"/>
+    <circle cx="80" cy="82" r="6" fill="#fbfaf6" stroke="#20312d" stroke-width="4"/>
+  </g>
+  <text x="178" y="104" fill="#20312d" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">La Bonne Fibre</text>
+</svg>
