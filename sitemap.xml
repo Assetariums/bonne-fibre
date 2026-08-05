@@ -1,4 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+  <url><loc>https://bonne-fibre.fr/</loc></url>
+  <url><loc>https://bonne-fibre.fr/articles/</loc></url>
+  <url><loc>https://bonne-fibre.fr/categories/</loc></url>
+  <url><loc>https://bonne-fibre.fr/editeurs/</loc></url>
+  <url><loc>https://bonne-fibre.fr/articles/etiquette-coupee-avant-lavage/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/impression-collee-craquelee-lavage/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/lavage-main-sans-deformer/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/lessive-dose-durete-charge/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/linge-blanc-gris-jauni/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/lire-etiquette-composition-entretien/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/odeur-persiste-apres-lavage/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/premier-lavage-couleur-foncee/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/premiers-gestes-tache-inconnue/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/programme-delicat-ou-laine/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/pull-laine-feutre/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/sechage-plat-ou-suspendu/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/seche-linge-risque-retrecissement/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/transfert-couleur-lavage/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/trier-linge-matiere-couleur/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/articles/page/2/</loc></url>
+  <url><loc>https://bonne-fibre.fr/a-propos/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/mentions-legales/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/methodologie/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/politique-de-confidentialite/</loc><lastmod>2026-08-05T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/politique-editoriale/</loc><lastmod>2026-08-04T00:00:00.000Z</lastmod></url>
+  <url><loc>https://bonne-fibre.fr/categories/laver-trier-doser/</loc></url>
+  <url><loc>https://bonne-fibre.fr/categories/lire-identifier-textile/</loc></url>
+  <url><loc>https://bonne-fibre.fr/categories/recuperer-incident-lavage/</loc></url>
+  <url><loc>https://bonne-fibre.fr/categories/secher-repasser-ranger/</loc></url>
+  <url><loc>https://bonne-fibre.fr/editeurs/bonne-fibre/</loc></url>
 </urlset>
